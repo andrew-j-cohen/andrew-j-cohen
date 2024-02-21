@@ -122,7 +122,7 @@
 
 <h2>📪 Contact me</h2>
 <p>
-<a target="_blank" href="www.linkedin.com/in/software-hero" target="_blank" style="display: inline-block;">
+<a target="_blank" href="http://www.linkedin.com/in/software-hero" target="_blank" style="display: inline-block;">
 <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
 </a>
 

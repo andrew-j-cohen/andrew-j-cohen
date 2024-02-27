@@ -5,7 +5,7 @@
 
 <h1>Hi 👋, I'm Andrew Cohen</h1>
 
-<p>A creative, outgoing technical leader with a passion for leading and working with great SW & data engineering teams. I love working with people to solve challenging problem and always trying new things!</p>
+<p>A creative and personable technical leader with a passion for leading and working with great SW & data engineering teams. I love working with people to solve challenging problem and always trying new things!</p>
 
 <h2>🛠 Skills</h2>
 <p>
